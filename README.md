@@ -1,4 +1,4 @@
-## Hello internet people👋🏼, I'am AmubaCraft
+## Hello internet people👋🏼, I am AmubaCraft
 
 
 
@@ -76,7 +76,7 @@ Well I work the hours I want and where I have freely time to work like night tim
 
 
 ## My Github Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=amubacr&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=amubacr&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
 <br/>  <br/>
 
