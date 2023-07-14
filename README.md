@@ -85,8 +85,7 @@ Well I work the hours I want and where I have freely time to work like night tim
 <div align="center">
 <!-- <img src="https://komarev.com/ghpvc/?username=amubacr&&style=flat-square" align="center" /> -->
 <a href="https://trakteer.id/amubacraft/tip/embed/modal" target="_blank">
-        <img src=https://img.shields.io/badge/Buy%20me%20a%20Coffee-orange?style=flat-square&logo=buy%20me%20a%20coffee&logoColor=white
- alt=Trakteer style="margin: 7px;">
+<img src=https://img.shields.io/badge/Buy%20me%20a%20Coffee-orange?style=flat-square&logo=buy%20me%20a%20coffee&logoColor=white alt=Trakteer style="margin: 7px;" >
 </a>
 </div>  
 
