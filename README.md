@@ -91,5 +91,7 @@ Well I work the hours I want and where I have freely time to work like night tim
 
 
 <div align="center"> 
-    <script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Buy me a Coffee','#3F51B5','https://trakteer.id/amubacraft/tip/embed/modal','https://cdn.trakteer.id/images/mix/coffee.png','32','inline');trbtnOverlay.draw(trbtnId);})();</script>
+    <a href="https://trakteer.id/amubacraft/tip/embed/modal" target="_blank">
+        <img src=https://img.shields.io/badge/Buy%20me%20a%20Coffee-orange?style=flat-square&logo=buy%20me%20a%20coffee&logoColor=white
+ alt=Trakteer style="margin: 7px;">
 </div>
