@@ -78,20 +78,15 @@ Well I work the hours I want and where I have freely time to work like night tim
 ## My Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=amubacr&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
+<br/>  <br/>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=amubacr&&style=flat-square" align="center" />
+<a href="https://trakteer.id/amubacraft/tip/embed/modal" target="_blank">
+        <img src=https://img.shields.io/badge/Buy%20me%20a%20Coffee-orange?style=flat-square&logo=buy%20me%20a%20coffee&logoColor=white
+ alt=Trakteer style="margin: 7px;">
+</a>
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-<div align="center"> 
-    <a href="https://trakteer.id/amubacraft/tip/embed/modal" target="_blank">
-        <img src=https://img.shields.io/badge/Buy%20me%20a%20Coffee-orange?style=flat-square&logo=buy%20me%20a%20coffee&logoColor=white
- alt=Trakteer style="margin: 7px;">
-</div>
