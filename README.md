@@ -13,7 +13,7 @@ Well I work the hours I want and where I have freely time to work like night tim
     <img src=https://img.shields.io/badge/github-%2333435c?style=for-the-badge&logo=github&logoColor=white
  alt=github style="margin: 7px;" />
 </a>
-<a href="https://instagram.com/amubacraft." target="_blank">
+<a href="https://instagram.com/amubacraft._" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%239b5ad1?style=for-the-badge&logo=instagram&logoColor=white
  alt=instagram style="margin: 7px;" />
 </a>
