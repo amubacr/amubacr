@@ -1,12 +1,17 @@
-## Hello internet people👋🏼, I am AmubaCraft
+## Hi everyone👋🏼, I am AmubaCraft
 
 
 
-### I'm happy to see you guys visisting my Github Profile
+### I'm happy to see you visiting my Github profile.
 
-Hello people, my name is Ahmat Framuja and in internet my nickname is Amubacraft. I am a Full-Stack Web Developer who works independently and also a UI/UX Designer who has 1 year experience. I'm using operating systems such as Linux Distribution in my desktop work like MX Linux, Fedora, Debian, Arch Linux and several other Linux distribution.
+My name is Ahmat Framuja, and my nickname online is Amubacraft. I am a full-stack web developer who works independently, and I also have one year of experience as a UI/UX designer. I use Linux distributions on my desktop, such as MX Linux, Fedora, Debian, Arch Linux, and several other Linux distributions.
 
-Well I work the hours I want and where I have freely time to work like night time or morning time, and ofcourse if I have internet connection I will work. For now I working with my family and helping them to manage fish sale finance.
+I work the hours I want and where I have free time, such as night or morning. Of course, I will work if I have an internet connection. Currently, I am working with my family and helping them to manage the finances of their fish sales. I am always looking for new challenges, so if you have any projects that you think I would be a good fit for, please don't hesitate to contact me.
+
+Thank you for your time!
+
+Sincerely,
+##### Ahmat Framuja
 
 ### My Social Networks
 <a href="https://github.com/amubacr" target="_blank">
