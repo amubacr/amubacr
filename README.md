@@ -80,7 +80,5 @@ Sincerely,
 <br/>
 
 ## Support Me
-
-<!-- <img src="https://komarev.com/ghpvc/?username=amubacr&&style=flat-square" align="center" /> -->
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3QEOQO)
 <br />
