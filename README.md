@@ -4,7 +4,7 @@
 
 My name is Ahmat Framuja, and my nickname online is Amubacraft. I am a full-stack web developer who works independently, and I also have one year of experience as a UI/UX designer. I use Linux distributions on my desktop, such as MX Linux, Fedora, Debian, Arch Linux, and several other Linux distributions.
 
-I work the hours I want and where I have free time, such as night or morning. Of course, I will work if I have an internet connection. Currently, I am working with my family and helping them to manage the finances of their fish sales. I am always looking for new challenges, so if you have any projects that you think I would be a good fit for, please don't hesitate to contact me.
+I work the hours I want and where I have free time, such as night or morning. Of course, I will work if I have an internet connection. I am always looking for new challenges, so if you have any projects that you think I would be a good fit for, please don't hesitate to contact me.
 
 Thank you for your time!
 
