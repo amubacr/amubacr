@@ -1,4 +1,4 @@
-![AmubaCraft Banner](https://i.ibb.co/0hm2hwH/Amuba-Craft-Twitter-Header.png)
+![AmubaCraft Banner](https://i.ibb.co/dfZH5Hk/Amuba-Craft-Twitter-Header.png)
 <hr>
 <h1 align="center">Konnichiwa👋, I'm AmubaCraft</h1>
 <p>
